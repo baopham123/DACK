@@ -1,4 +1,8 @@
-dao\NhanVienDao.class
+dao\ProductDao.class
+controller\HomeController.class
+dao\ProductDao$1.class
+model\Product.class
 controller\NhanVienController.class
-dao\NhanVienDao$1.class
 model\NhanVien.class
+dao\NhanVienDao.class
+dao\NhanVienDao$1.class
