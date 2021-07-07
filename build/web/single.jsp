@@ -100,16 +100,16 @@
                         <div class="price_single">
                             <form>
                                 <fieldset class="starability-basic">
-                                    <input type="radio" id="rate5" name="rating" value="5" checked="checked"/>
-                                    <label for="rate5" title="Amazing">5 stars</label>
-                                    <input type="radio" id="rate4" name="rating" value="4" />
-                                    <label for="rate4" title="Very good">4 stars</label>
-                                    <input type="radio" id="rate3" name="rating" value="3" />
-                                    <label for="rate3" title="Average">3 stars</label>
+                                    <label for="rate1" title="Terrible">1 star</label>
                                     <input type="radio" id="rate2" name="rating" value="2" />
                                     <label for="rate2" title="Not good">2 stars</label>
+                                    <input type="radio" id="rate3" name="rating" value="3" />
+                                    <label for="rate3" title="Average">3 stars</label>
+                                    <input type="radio" id="rate4" name="rating" value="4" />
+                                    <label for="rate4" title="Very good">4 stars</label>
+                                    <input type="radio" id="rate5" name="rating" value="5" checked="checked"/>
+                                    <label for="rate5" title="Amazing">5 stars</label>
                                     <input type="radio" id="rate1" name="rating" value="1" />
-                                    <label for="rate1" title="Terrible">1 star</label>
                                 </fieldset>
                             </form>
                             <br>
