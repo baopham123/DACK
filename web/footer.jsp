@@ -14,7 +14,7 @@
 			<div class="footer-grids">
 				<div class="col-md-4 footer-grid animated wow fadeInLeft" data-wow-delay=".5s">
 					<h3>Giới Thiệu</h3>
-					<p>BOOK STORE là sản phẩm của nhóm 13 môn TH lập trinh quản lý 2, Trường đại học khoa học tự nhiên TP HCM.</span></p>
+					<p>BOOK STORE là sản phẩm của nhóm 31 môn TH lập trinh quản lý 2, Trường đại học khoa học tự nhiên TP HCM.</span></p>
 				</div>
 				<div class="col-md-4 footer-grid animated wow fadeInLeft" data-wow-delay=".6s">
 					<h3>Thông Tin Liên Hệ</h3>
