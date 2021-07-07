@@ -47,7 +47,6 @@
 </head>
 <div id="fb-root"></div>
 
-
 <body>
     <%
         User user = null;
@@ -121,7 +120,6 @@
                             <%}%>
                             <div class="clearfix"> </div>
                         </div>
-
 
                     </div>
                     <!----- tabs-box ---->
