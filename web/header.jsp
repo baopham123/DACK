@@ -49,10 +49,10 @@
                                 <li class="active"><a href="index.jsp" class="act">Trang Chủ</a></li>	
                                 <!-- Mega Menu -->
                                 <li>
-                                    <a href="products.jsp">Sản Phẩm</a>
+                                    <a href="product.jsp">Sản Phẩm</a>
                                 </li>
                                 <%if (user != null) {%>
-                                <li><a href="checkout.jsp">Giỏ hàng</a></li>
+                                <li><a href="cart.jsp">Giỏ hàng</a></li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon-user" ></i><%=user.getUserName()%><b class="caret"></b></a>
                                     <ul class="dropdown-menu" style="float: right;margin-right: 50px;">
