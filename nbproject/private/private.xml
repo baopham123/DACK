@@ -3,12 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/nam3ki2/PhatTrien2/TH/DoAn/DACK/web/header.jsp</file>
-            <file>file:/E:/nam3ki2/PhatTrien2/TH/DoAn/DACK/web/product.jsp</file>
-            <file>file:/E:/nam3ki2/PhatTrien2/TH/DoAn/DACK/nbproject/build-impl.xml</file>
-            <file>file:/E:/nam3ki2/PhatTrien2/TH/DoAn/DACK/src/java/controller/CartController.java</file>
-            <file>file:/E:/nam3ki2/PhatTrien2/TH/DoAn/DACK/src/java/get/ProductGet.java</file>
-            <file>file:/E:/nam3ki2/PhatTrien2/TH/DoAn/DACK/web/cart.jsp</file>
+            <file>file:/E:/Tài%20Liệu%20Trên%20Trường/TH%20PTUDCSDL2/DACK_Done/DACK/src/java/controller/UserController.java</file>
+            <file>file:/E:/Tài%20Liệu%20Trên%20Trường/TH%20PTUDCSDL2/DACK_Done/DACK/web/login.jsp</file>
+            <file>file:/E:/Tài%20Liệu%20Trên%20Trường/TH%20PTUDCSDL2/DACK_Done/DACK/src/java/controller/Logout.java</file>
         </group>
     </open-files>
 </project-private>
