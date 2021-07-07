@@ -1,4 +1,4 @@
-- 18600026_Phạm Chí Bảo_Trang chủ, Đăng ký_10
-- 18600088_Nguyễn Trung Hiếu_Đăng nhập, Đăng xuất_10
+- 18600026_Phạm Chí Bảo_Trang chủ, Đăng ký tài khoản_10
+- 18600088_Nguyễn Trung Hiếu_Đăng nhập, Đăng xuất,Fix lỗi giao diện_10
 - 18600166_Nguyễn Thị Trúc Mai_Trang sản phẩm, giỏ hàng_10
-- 18600255_Hoàng Ngọc Thiện_Chi tiết sản phẩm_10
+- 18600255_Hoàng Ngọc Thiện_Chi tiết sản phẩm,Fix lỗi giao diện_10
